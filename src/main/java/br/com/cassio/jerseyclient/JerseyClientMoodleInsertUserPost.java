@@ -19,7 +19,7 @@ public class JerseyClientMoodleInsertUserPost {
 
             String token = "the token string";
             // You can obtain this token with this simple get request
-            // http://yourdomain.com/moodle/login/token.php?username=admin&password=90Zpt89dt7@&service=usuarios
+            // http://yourdomain.com/moodle/login/token.php?username=admin&password=yourpasswd@&service=usuarios
 
             String domainName = "http://yourdomain.com/moodle";
             String functionName = "core_user_create_users";
