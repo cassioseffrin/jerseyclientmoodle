@@ -21,10 +21,13 @@ public class JerseyClientMoodleInsertUserPost {
             // You can obtain this token with this simple get request
             // http://yourdomain.com/moodle/login/token.php?username=admin&password=yourpasswd@&service=usuarios
 
+            
             String domainName = "http://yourdomain.com/moodle";
             String functionName = "core_user_create_users";
             String functionEnrol = "enrol_manual_enrol_users";
 
+            
+            // here you can choose the return format between JSON and XML
             String restformat = "json";
 
             if (restformat.equals("json")) {
@@ -34,7 +37,7 @@ public class JerseyClientMoodleInsertUserPost {
             }
 
             WebResource webResource = client
-                    .resource("http://webservice.arpasistemas.com.br/moodle/webservice/rest/server.php" + "?wstoken=" + token + "&wsfunction="
+                    .resource(domainName+ "/webservice/rest/server.php" + "?wstoken=" + token + "&wsfunction="
                             + functionName + restformat);
 
             MultivaluedMap<String, String> paramlist = new MultivaluedMapImpl();

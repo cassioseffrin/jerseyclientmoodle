@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    
+ <table id=licenca>
+<tr><td colspan=3><p> <b> Legenda</b></p></td></tr>   
+    <tr>
+        <td>A400 - ATUALIZAÇÃO SISTEMA CONTROL 2017</td><td>C401 - ATUALIZAÇÃO L. A. RETAGUARDA 2017</td><td>B402 - ATUALIZAÇÃO L. A. PDV 2017</td>
+    </tr>   
+    <tr>
+    <td>E403 - ATUALIZAÇÃO STANDALONE (PDV - Off-Line)</td><td>G404 - LICENCA GOC 2017</td><td>A405 - SISTEMA CONTROL 2017</td>
+</tr>
+<tr>
+        <td>C406 - LICENCA ADICIONAL RETAGUARDA 2017</td><td>B407 - LICENCA ADICIONAL FRENTE DE CAIXA (PDV)</td><td>E408 - LICENCA STANDALONE (PDV - Off-Line)</td>
+</tr>
+<tr>
+        <td>P409 - LICENÇA DE USO SMART VENDAS 2017</td><td>G410 - ATUALIZAÇÃO GOC 2017</td><td>A417 - Control LITE 2017</td>
+</tr>
+</table>
+</root>
+A400 - ATUALIZAÇÃO SISTEMA CONTROL 2017         C401 - ATUALIZAÇÃO L. A. RETAGUARDA 2017	B402 - ATUALIZAÇÃO L. A. PDV 2017
+E403 - ATUALIZAÇÃO STANDALONE (PDV - Off-Line)	G404 - LICENCA GOC 2017	                        A405 - SISTEMA CONTROL 2017
+C406 - LICENCA ADICIONAL RETAGUARDA 2017	B407 - LICENCA ADICIONAL FRENTE DE CAIXA (PDV)	E408 - LICENCA STANDALONE (PDV - Off-Line)
+P409 - LICENÇA DE USO SMART VENDAS 2017	        G410 - ATUALIZAÇÃO GOC 2017	                A417 - Control LITE 2017
+
+
+
+<table id=licenca >
+<tr><td colspan=3>
+<p> <b> Legenda</b></p></td></tr>
+<tr>
+<td> A300 - ATUALIZAÇÃO SISTEMA CONTROL 2016</td>
+<td>C301 - ATUALIZAÇÃO L. A. RETAGUARDA</td>
+<td>B302 - ATUALIZAÇÃO L. A. PDV</td>
+</tr>
+<tr>
+<td>E303 - ATUALIZAÇÃO STANDALONE (PDV - Off-Line)</td>
+<td>G304 - LICENCA GOC</td>
+<td>A305 - SISTEMA CONTROL   2016</td>
+</tr>
+<td>C306 - LICENCA ADICIONAL RETAGUARDA </td>
+<td>B307 - LICENCA ADICIONAL FRENTE DE CAIXA (PDV)</td>
+<td>E308 - LICENCA STANDALONE (PDV - Off-Line)</td>
+<tr>
+<td>P309 - LICENÇA DE USO SMART VENDAS</td>
+<td>G310 - ATUALIZAÇÃO GOC</td>
+<td></td>
+</tr>
+</table>
